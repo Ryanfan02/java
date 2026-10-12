@@ -1,0 +1,20 @@
+# Java 編譯輸出
+*.class
+build/
+dist/
+target/
+out/
+
+# IDE 產生檔
+.idea/
+.vscode/
+nbproject/private/
+
+# 下載與暫存資料
+**/downloads/
+**/images/
+*.part
+
+# 作業系統暫存
+.DS_Store
+Thumbs.db

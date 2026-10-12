@@ -1,0 +1,2 @@
+Hello Java Socket!
+This sample is for file transfer testing.
